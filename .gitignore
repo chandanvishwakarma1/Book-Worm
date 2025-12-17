@@ -1,0 +1,11 @@
+# Environment variables
+.env
+**/.env
+
+# Expo
+.expo/
+**/.expo/
+
+# Node
+node_modules/
+**/node_modules/

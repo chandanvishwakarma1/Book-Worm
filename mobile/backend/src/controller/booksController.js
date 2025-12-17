@@ -1,4 +1,4 @@
-
+import cloudinary from '../lib/cloudinary.js';
 import Book from '../models/Book.js'
 
 const postBook = async (req,res,next) => {
